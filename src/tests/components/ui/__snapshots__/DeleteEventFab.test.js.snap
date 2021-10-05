@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <DeleteEventFab /> debe de mostrarse correctamente 1`] = `
+<button
+  className="btn btn-danger fab-danger"
+  onClick={[Function]}
+  type="button"
+>
+  <i
+    className="fas fa-trash"
+  />
+  <span>
+     Borrar evento 
+  </span>
+</button>
+`;
